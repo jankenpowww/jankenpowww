@@ -1,16 +1,21 @@
-### Hi there 👋
+<div>
+<pre>
+  <code>
+&lt;script&gt;
+    let boasVindas = document.createElement('h1')
+    boasVindas.innerHTML = `Em construção!`
+    document.body.appendChild(boasVindas)
+&lt;/script&gt;
+  </code>
+</pre>
+</div>
 
-<!--
-**httptheus/httptheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <p><code>&gt;be me</p></code>
+  <p><code>&gt;literally no life</p></code>
+  <p><code>&gt;tfwnolife.jpg</p></code>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img title="httptheus-irl-pic.gif" width="280px" src="https://steamuserimages-a.akamaihd.net/ugc/27342821856557663/F180042CBFFEB523EC05AB510444647FC101CB70/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+</div>
