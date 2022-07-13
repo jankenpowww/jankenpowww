@@ -1,15 +1,3 @@
-<div>
-<pre>
-  <code>
-&lt;script&gt;
-    let boasVindas = document.createElement('h1')
-    boasVindas.innerHTML = `Em construção!`
-    document.body.appendChild(boasVindas)
-&lt;/script&gt;
-  </code>
-</pre>
-</div>
-
 <div align="center">
   <p><code>&gt;be me</p></code>
   <p><code>&gt;literally no life</p></code>
