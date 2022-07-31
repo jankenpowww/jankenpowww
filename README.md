@@ -1,7 +1,7 @@
 <div align="center">
-<h3>
+<h5>
   <p><code>&gt;hello, weirdo!</p></code></p>
-</h3>
+</h5>
 </div>
 
 <div align="center">
