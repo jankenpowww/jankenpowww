@@ -1,8 +1,6 @@
 <div align="center">
 <h3>
-  <p><code>&gt;be me</p></code></p>
-  <p><code>&gt;literally no life</code></p>
-  <p><code>&gt;tfwnolife.gif</code></p>
+  <p><code>&gt;hello, weirdo!</p></code></p>
 </h3>
 </div>
 
