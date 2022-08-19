@@ -1,6 +1,6 @@
 <div align="center">
 <h3>
-  <p><code>&gt;hello, weirdo!</p></code></p>
+  <p><code>console.log('hello, weirdo!')</p></code></p>
 </h3>
 </div>
 
