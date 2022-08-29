@@ -1,6 +1,6 @@
 <div align="center">
 <h3>
-  <p><code>console.log('hello, weirdo!')</p></code></p>
+  <p><code>cosnole.loq('programming is my passion");;</p></code></p>
 </h3>
 </div>
 
